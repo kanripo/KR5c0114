@@ -1,28 +1,27 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:25:11.842779
+# -*- mode: mandoku-view -*-
 #+TITLE: 道德真經廣聖義
-#+PROPERTY: DZID  DZ0725
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，14—309 五十卷 洞神部玉訣類
+#+DATE: 2015-08-29 00:25:49
+#+PROPERTY:  LASTPB <PB KR5c0114_SJB_051-140562b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5c0114_SJB_005-140336b>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5c0114_HFL_004-012b>
 #+PROPERTY: JUAN 5
-#+PROPERTY: ID KR5c0114
-<pb:KR5c0114_HFL_005-001a>¶
-道德眞經廣聖義卷之四¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-　　　　　　　　　　　　　　　¶
-¶
-<pb:KR5c0114_HFL_005-001b>¶
-¶
-¶
-¶
-¶
-¶
-¶
+<md:KR5c0114_HFL_005-001a>¶<pb:KR5c0114_SJB_005-140336c>
+道德眞經廣聖義卷之四¶¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　¶¶<md:KR5c0114_HFL_005-001b>¶¶¶¶¶¶¶
+
+
+
+
+
+
+
+
+
